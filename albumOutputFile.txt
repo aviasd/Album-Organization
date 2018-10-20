@@ -1,0 +1,20 @@
+Total Number Of Albums: 3
+
+Album Name: Haosef shel shlomo,Number of Songs: 6, Album Length: 1363 (seconds)
+Song Name: Bastav, Artist Name: Shlomo artzi, Song Length: 213 (seconds)
+Song Name: Hozrim habaita, Artist Name: Shlomo artzi, Song Length: 218 (seconds)
+Song Name: Kol yom, Artist Name: Shlomo artzi, Song Length: 220 (seconds)
+Song Name: Veulai, Artist Name: Shlomo artzi, Song Length: 225 (seconds)
+Song Name: Latet velakahat, Artist Name: Shlomo artzi, Song Length: 231 (seconds)
+Song Name: Met lehagid lach, Artist Name: Shlomo artzi, Song Length: 256 (seconds)
+
+Album Name: Meshirei eretz ahavati,Number of Songs: 3, Album Length: 524 (seconds)
+Song Name: Shai, Artist Name: Hadudaim vehaparvarim, Song Length: 192 (seconds)
+Song Name: Beeretz ahavati hashaked poreach, Artist Name: Ruhama raz, Song Length: 204 (seconds)
+Song Name: Temuna, Artist Name: Yael levi, Song Length: 128 (seconds)
+
+Album Name: Osher express,Number of Songs: 4, Album Length: 925 (seconds)
+Song Name: Hozrim habaita, Artist Name: Shlomo artzi, Song Length: 218 (seconds)
+Song Name: Kol yom, Artist Name: Shlomo artzi, Song Length: 220 (seconds)
+Song Name: Latet velakahat, Artist Name: Shlomo artzi, Song Length: 231 (seconds)
+Song Name: Met lehagid lach, Artist Name: Shlomo artzi, Song Length: 256 (seconds)
