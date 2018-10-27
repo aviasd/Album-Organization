@@ -1,5 +1,5 @@
-# Album-Organization
-Albums Organization in Java, first semester's third Java project
+# Music-Library-Organization
+Music library organization in Java, first semester's third Java project
 
 How to use (Eclipse):
 1. Create a new Java project
